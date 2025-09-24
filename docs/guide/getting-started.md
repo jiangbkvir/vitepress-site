@@ -67,7 +67,7 @@ echo '# Hello World' > docs/index.md
 npm run docs:dev
 ```
 
-VitePress 将在 http://localhost:5173 启动开发服务器。
+VitePress 将在 <http://localhost:5173> 启动开发服务器。
 
 ## 基本配置
 

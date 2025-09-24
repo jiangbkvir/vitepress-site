@@ -97,8 +97,6 @@
 
 ## 相关链接
 
-- [组件设计规范](./design-guide)
-- [主题配置](./theme-config)
 - [API 文档](../api/)
 
 ---

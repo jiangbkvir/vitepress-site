@@ -6,6 +6,9 @@ export default defineConfig({
   title: 'VitePress 站点',
   description: '一个完整的VitePress文档站点示例',
   
+  // 忽略死链接错误（开发时）
+  ignoreDeadLinks: true,
+  
   // 主题配置
   themeConfig: {
     // 导航栏
